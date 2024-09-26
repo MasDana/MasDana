@@ -8,20 +8,18 @@ I've been working and studying technology since 2018, and during this time I wor
 
 What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
 
-If you want you can visit my [portfolio](https://luisoila.dev/)
-
 ## 👨🏻‍💻 About me
 
 <br>
 
 <img src="./images/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Brazil
+- 🌎 I'm from Indonesia
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
-- 🌌 Passionate for astronomy
-- ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via luisg.juliao@gmail.com
+- 🌌 Passionate for network
+- ✈️ Gaming is one of my favorite hobbie
+- 📧 Reach me via putudeni1414@gmail.com
 
 <br>
 <br>
@@ -44,10 +42,10 @@ If you want you can visit my [portfolio](https://luisoila.dev/)
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
+  <a href="https://www.linkedin.com/in/putu-devasya-aditya-widyadana/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
-<a href="https://instagram.com/luis_gustavoj">
+<a href="https://instagram.com/devasyaditya_">
 <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
 </a>
 </p>
