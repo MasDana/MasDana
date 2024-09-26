@@ -1,4 +1,4 @@
-<img src="./images/whitebeard-marineford.gif" width="100%"/>
+<img src="./images/whitebeard-marineford.gif" width="100% height=90%"/>
 <img src="./images/gold.gif" width="100%"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
